@@ -1,6 +1,12 @@
-# React + Vite
+# Block 24 Workshop: Puppy Pals
+
+Deployment Site: https://puppypalrd.netlify.app/
 
 GitHub Link: https://github.com/rducci84/Coursework_block24/
+
+
+
+# React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
